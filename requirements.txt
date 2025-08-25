@@ -1,3 +1,10 @@
-pip install matplotlib pillow opencv-python jupyter
-python.exe -m pip install --upgrade pip
-jupyter notebook
+matplotlib
+Pillow
+opencv-python
+jupyter
+opencv-python
+numpy
+scipy
+scikit-image
+scikit-learn
+scikit-learn
